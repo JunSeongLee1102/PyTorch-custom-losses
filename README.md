@@ -1,2 +1,2 @@
 # PyTorch_custom_losses
-Implementation of the custom losses using PyTorch
+- focal_loss.ipynb: implementation of the focal loss and experimental focal KL-divergence loss
